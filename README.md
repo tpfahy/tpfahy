@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tpfahy
-- 👀 I’m interested in ... learning to program
-- 🌱 I’m currently learning ... github
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in getting better at coding as a whole
+- 🌱 I’m currently learning github, java, machine learning
+
 
 <!---
 tpfahy/tpfahy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
