@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tpfahy
-- 👀 I’m interested in getting better at coding as a whole
-- 🌱 I’m currently learning github, java, machine learning
+Aspiring software developer / engineer
+Most of the projects are private because of the honor code of GMU
 
 
 <!---
